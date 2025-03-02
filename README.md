@@ -15,11 +15,11 @@
   <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345682151366201346/6vw5.gif?ex=67c56faa&is=67c41e2a&hm=463817e62d5138f02c82cb8c75ae766e1ff966cbfa31dc74e6c94c712a150345&" height="100" />
 <br><br>
 
-<a style="text-decoration: none; color: inherit;" href="http://linkedin.com/in/ingridrosselis">
+<a style="text-decoration: none; color: inherit;" href="https://www.linkedin.com/in/umang-shroff-8792822b6/">
     <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345685118051680317/greatball.png?ex=67c5726d&is=67c420ed&hm=e086f33ff6742b4b62194505593db8f39f3151ceabf1ffff9bac2f372c9c2127&" alt="LinkedIn" width="100" />
 </a>
 
-<a href="https://enka.network/u/Inng/1A4HU1/10000069/1985924/">
+<a href="https://leetcode.com/u/umang_shroff/">
     <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345685117825450005/ultraball.png?ex=67c5726d&is=67c420ed&hm=76a930c39482bb39235eacdc58f7b8f480d8e55e7383560b8c8e14af023b2712&" alt="Enka Network" width="100" />
 </a>
 
