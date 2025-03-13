@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345677583714353152/Pokemon_Pikachu_estampe_japonaise.jpg?ex=67c56b69&is=67c419e9&hm=17b099915c7ffaec502f0888214060ea7ec1232893a18b40abee86065788709d&" width="25%" align="right" />
+  <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345677583714353152/Pokemon_Pikachu_estampe_japonaise.jpg?ex=67d3ebe9&is=67d29a69&hm=323b81248375a9d6fa9a16e14f03d01c8c6307bc4506aa487f63edbd4cb28c31&" width="25%" align="right" />
   
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=4000&pause=300&color=FF9900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=Hi%2C+I'm+Umang+Shroff%21;a+web+developer+with+an+eye+for+design+%F0%9F%8E%A8" width="70%" />
 
