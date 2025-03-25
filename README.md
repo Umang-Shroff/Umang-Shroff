@@ -12,15 +12,15 @@
   </pre>
 
 <br>
-  <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345682151366201346/6vw5.gif?ex=67d3f02a&is=67d29eaa&hm=eaea75333bdaad9c91e2e5697c138664d4b090c4ccdf63be67719926487a6408&" height="100" />
+  <img src="https://discord.com/channels/1146160098893373541/1146160099535106182" height="100" />
 <br><br>
 
 <a style="text-decoration: none; color: inherit;" href="https://www.linkedin.com/in/umang-shroff-8792822b6/">
-    <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345685118051680317/greatball.png?ex=67d3f2ed&is=67d2a16d&hm=da24c2d0dd15aa531e39659de4e95d17d060cfebd4e48de04f25d2ce54c71bf9&" alt="LinkedIn" width="100" />
+    <img src="https://discord.com/channels/1146160098893373541/1146160099535106182" alt="LinkedIn" width="100" />
 </a>
 
 <a href="https://leetcode.com/u/umang_shroff/">
-    <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345685117825450005/ultraball.png?ex=67d3f2ed&is=67d2a16d&hm=504c6f7d3758bf7ae4a6aec8e86a6a3e85e4c52839fc0b3c8a5438255bfcbf08&" alt="Enka Network" width="100" />
+    <img src="https://discord.com/channels/1146160098893373541/1146160099535106182" alt="Enka Network" width="100" />
 </a>
 
 <br>
