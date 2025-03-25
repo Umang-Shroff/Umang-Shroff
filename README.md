@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345677583714353152/Pokemon_Pikachu_estampe_japonaise.jpg?ex=67d3ebe9&is=67d29a69&hm=323b81248375a9d6fa9a16e14f03d01c8c6307bc4506aa487f63edbd4cb28c31&" width="25%" align="right" />
   
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=4000&pause=300&color=FF9900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=Hi%2C+I'm+Umang+Shroff%21;a+web+developer+with+an+eye+for+design+%F0%9F%8E%A8" width="70%" />
+<img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345677583714353152/Pokemon_Pikachu_estampe_japonaise.jpg?ex=67e3bde9&is=67e26c69&hm=5364bc982346d0a20f35da4a8952681d5c420ebe382b166e7106bea94e29ad61&" width="70%" />
 
 
 <br>
@@ -12,7 +12,7 @@
   </pre>
 
 <br>
-  <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345677583714353152/Pokemon_Pikachu_estampe_japonaise.jpg?ex=67e3bde9&is=67e26c69&hm=5364bc982346d0a20f35da4a8952681d5c420ebe382b166e7106bea94e29ad61&" height="100" />
+  <img src="https://cdn.discordapp.com/attachments/1146160099535106182/1345682151366201346/6vw5.gif?ex=67e3c22a&is=67e270aa&hm=cf6982108895549756c586d64d6e32c7e3277e8469d92e5db2dec3bc6851e0c9&" height="100" />
 <br><br>
 
 <a style="text-decoration: none; color: inherit;" href="https://www.linkedin.com/in/umang-shroff-8792822b6/">
