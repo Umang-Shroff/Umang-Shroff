@@ -36,7 +36,7 @@
 
     <!-- Right Panel: Pikachu Poster (Full Height & Width) -->
   <td style="padding: 0;">
-      <img src="assets/pikachu_bg.jpg" alt="Pikachu Japanese Art" width="100%" height="100%" />
+      <img src="assets/pikachu_bg.jpg" alt="Pikachu Japanese Art" width="50%" height="100%" />
     </td>
   </tr>
 </table>
