@@ -24,7 +24,7 @@
           </a>
           <div>LinkedIn</div>
         </div>
-    <!-- Left Section -->
+
         <div align="center">
           <a href="https://leetcode.com/u/umang_shroff/">
             <img src="assets/ultraball_1.png" alt="LeetCode" width="65" />
@@ -32,9 +32,9 @@
           <div>LeetCode</div>
         </div>
    </div>
-    <!-- Left Section -->
+
     </td>
-    <!-- Left Section -->
+
     <!-- Right Section -->
     <td align="center" style="width: 35%; padding: 15px;">
       <img src="assets/pikachu_bg.jpg" alt="Pikachu Japanese Art" width="70%" style="border-radius: 12px;"/>
@@ -43,3 +43,23 @@
 </table>
 
 ---
+
+<!-- Artistic Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<h2 align="center">✨ What I Love</h2>
+<p align="center">🎶 Music • 🎮 Games • 🎨 Art • 📺 Anime • 💻 Code</p>
+
+<!-- Artistic Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangshroff&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangshroff&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<!-- Artistic Divider -->
+<p align="center">
+   <img src="https://i.ibb.co/6tZK9qR/wave-divider.gif" alt="divider" width="80%">
+</p>
