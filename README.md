@@ -8,7 +8,7 @@
 <table align="center" style="border: none; width: 100%;">
   <tr>
     <!-- Left Section -->
-    <td align="center" style="width: 55%; vertical-align: middle;">
+    <td align="center" style="width: 65%; vertical-align: middle;">
 
    <div style="font-size: 1.1rem; text-align: center;">
         💻 DJSCE • Full-Stack Dev • GenAI <br>
@@ -17,26 +17,27 @@
 
    <br><br>
 
-   <div style="display: flex; justify-content: center; gap: 50px;">
+   <div style="display: flex; justify-content: center; gap: 60px;">
         <div align="center">
           <a href="https://www.linkedin.com/in/umang-shroff-8792822b6/">
-            <img src="assets/greatball_1.png" alt="LinkedIn" width="70" />
+            <img src="assets/greatball_1.png" alt="LinkedIn" width="65" />
           </a>
           <div>LinkedIn</div>
         </div>
-<!-- Left Section -->
+    <!-- Left Section -->
         <div align="center">
           <a href="https://leetcode.com/u/umang_shroff/">
-            <img src="assets/ultraball_1.png" alt="LeetCode" width="70" />
+            <img src="assets/ultraball_1.png" alt="LeetCode" width="65" />
           </a>
           <div>LeetCode</div>
         </div>
    </div>
-   <!-- Left Section -->
+    <!-- Left Section -->
     </td>
+    <!-- Left Section -->
     <!-- Right Section -->
-    <td align="center" style="width: 45%; padding: 20px;">
-      <img src="assets/pikachu_bg.jpg" alt="Pikachu Japanese Art" width="85%" style="border-radius: 12px;"/>
+    <td align="center" style="width: 35%; padding: 15px;">
+      <img src="assets/pikachu_bg.jpg" alt="Pikachu Japanese Art" width="70%" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
