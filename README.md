@@ -18,13 +18,13 @@
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <a href="https://linkedin.com/in/umang-shroff-8792822b6" target="_blank">
           <img src="assets/greatball_1.png" width="80"/>
         </a><br/>
         LinkedIn
       </td>
       <td align="center" style="padding-left: 20px;">
-        <a href="https://leetcode.com/your-leetcode" target="_blank">
+        <a href="https://leetcode.com/u/umang_shroff" target="_blank">
           <img src="assets/ultraball_1.png" width="80"/>
         </a><br/>
         LeetCode
