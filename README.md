@@ -1,10 +1,8 @@
 <!-- Header Banner -->
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;"> -->
 
-<h2 align="center">Building cool stuff with code</h2>
+<!-- <h2 align="center">Building cool stuff with code</h2> -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-
 <p align="center">
   💻 DJSCE • Full-Stack Dev • GenAI <br>
   🎮 Music • Games • Anime • Code • Art
