@@ -4,8 +4,8 @@
 <!-- <h2 align="center">Building cool stuff with code</h2> -->
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> -->
 <p align="center">
-  💻 DJSCE • Full-Stack Dev • GenAI <br>
-  🎮 Music • Games • Anime • Code • Art
+  DJSCE • Full-Stack Dev • GenAI <br>
+  Music • Games • Anime • Code • Art
 </p>
 
 <p align="center">
